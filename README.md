@@ -37,7 +37,7 @@ Deployed a multi-honeypot framework (**T-Pot CE**) in Microsoft Azure to capture
 
 ## 📑 Deliverables
 * 📄 **[Full Threat Intelligence Report (PDF)](./tpot_threat_intel_report.pdf)** — Detailed analysis including MITRE ATT&CK mapping, IoCs, and SOC mitigation strategies.
-* 🎥 **[3-Minute Demo Video](https://youtube.com/your-video-link-here)** — Walkthrough of the live framework, telemetry, and OSINT analysis.
+* 🎥 **[3-Minute Demo Video](https://youtu.be/4LXfOZwiQqo)** — Walkthrough of the live framework, telemetry, and OSINT analysis.
 
 ---
 **Author:** Yevhenii Shevchenko (Shebysho) — Aspiring SOC Analyst  
