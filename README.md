@@ -27,11 +27,11 @@ Deployed a multi-honeypot framework (**T-Pot CE**) in Microsoft Azure to capture
 ## 🖼️ Visualizations & Dashboards
 
 ### 1. Live Attack Map
-![Attack Map](assets/attack_map.png)
+![Attack Map](assets/attack_map.jpg)
 
 ### 2. Kibana SIEM Dashboard & Credential Brute-Force Analysis
-![Kibana Overview](assets/kibana_overview.png)
-![Credentials Wordcloud](assets/credentials_wordcloud.png)
+![Kibana Overview](assets/kibana_overview.jpg)
+![Credentials Wordcloud](assets/credentials_wordcloud.jpg)
 
 ---
 
@@ -41,4 +41,4 @@ Deployed a multi-honeypot framework (**T-Pot CE**) in Microsoft Azure to capture
 
 ---
 **Author:** Yevhenii Shevchenko (Shebysho) — Aspiring SOC Analyst  
-**Contact:** [LinkedIn Profile](https://linkedin.com) | GitHub: `@Shebysho`
+**Contact:** [LinkedIn Profile](https://www.linkedin.com/in/yevheniy-shevchenko/) | GitHub: `@Shebysho`
