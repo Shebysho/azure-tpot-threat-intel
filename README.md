@@ -18,9 +18,9 @@ Deployed a multi-honeypot framework (**T-Pot CE**) in Microsoft Azure to capture
 | **Total Captured Events** | **17,103 attacks** |
 | **Primary Vector** | SSH (Port 22 via Cowrie Honeypot) |
 | **Top Origin Countries** | Bulgaria (1,245), Philippines (685), USA (677) |
-| **Top Attacker IP** | \`109.160.32.154\` (5,995 attempts) |
+| **Top Attacker IP** | `109.160.32.154` (5,995 attempts) |
 | **Targeted Vulnerability** | **CVE-2024-6387** (regreSSHion RCE attempt) |
-| **Top Credentials Tried** | User: \`root\`, \`ubuntu\` \| Pass: \`123456\`, \`password\` |
+| **Top Credentials Tried** | User: `root`, `ubuntu` | Pass: `123456`, `password` |
 
 ---
 
@@ -41,4 +41,4 @@ Deployed a multi-honeypot framework (**T-Pot CE**) in Microsoft Azure to capture
 
 ---
 **Author:** Yevhenii Shevchenko (Shebysho) — Aspiring SOC Analyst  
-**Contact:** [LinkedIn Profile](https://linkedin.com) | GitHub: \`@Shebysho\`
+**Contact:** [LinkedIn Profile](https://linkedin.com) | GitHub: `@Shebysho`
